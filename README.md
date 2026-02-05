@@ -1,0 +1,1 @@
+This is a project about me trying to make "bettergebra" aka shittygebra A geogebra clone (does not copy anything from the original geogebra) this is as it is and does not mean that this is geogebra or is not advertised as a geogebra product.
